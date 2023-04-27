@@ -1,2 +1,2 @@
-# CSPB-1300-FInal-Project
+# CSPB-1300-Final-Project
 Image Processing Application
